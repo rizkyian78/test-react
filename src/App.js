@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div>Halo teman-teman developer</div>
+    <div>Halo Ini AKu dari vercel</div>
   )
 }
 
